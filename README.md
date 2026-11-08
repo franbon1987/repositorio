@@ -1,4 +1,4 @@
-# Laboratorio: Código Seguro y Modelo OWASP
+# Laboratorio: Práctica de Seguridad MTTD y MTTR
 
 ## 1. Datos generales
 
